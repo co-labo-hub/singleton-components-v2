@@ -24,8 +24,8 @@ class Game {
   // define state
   constructor() {
     this._root = null;
-    this._winner = null; //state
-    this._message = ""; //state
+    this._winner = null;
+    this._message = "";
   }
 
   // initialize component

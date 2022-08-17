@@ -30,7 +30,7 @@ class Board {
 
   // define state
   constructor() {
-    this._nextPlayer = "X"; //state
+    this._nextPlayer = "X";
   }
 
   // initialize component

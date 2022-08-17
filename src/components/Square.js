@@ -25,8 +25,8 @@ class Square {
 
   // define state
   constructor(id) {
-    this._id = id; // state
-    this._player = ""; // state
+    this._id = id;
+    this._player = "";
   }
 
   // initialize component
