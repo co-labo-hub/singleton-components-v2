@@ -1,0 +1,1 @@
+window.components = new Map();
